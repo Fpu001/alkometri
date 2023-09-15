@@ -1,0 +1,8 @@
+#box{
+margin: 56px;
+}
+
+label{
+  width: 100px;
+  display: inline-block;
+}
